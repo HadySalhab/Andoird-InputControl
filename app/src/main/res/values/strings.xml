@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputControl</string>
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>Germany</item>
+        <item>Lebanon</item>
+    </string-array>
+</resources>
